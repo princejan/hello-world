@@ -1,2 +1,2 @@
 # prince
-[CONTRIBUTING.md](VID-20171215-WA0002.mp4)
+[CONTRIBUTING.md](Prince.html)
